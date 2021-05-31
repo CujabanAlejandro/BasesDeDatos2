@@ -1,0 +1,4 @@
+Columna		      	Tipo
+orderdate			DATE
+id_customer			FLOAT
+revisionnumber		INTEGER 
